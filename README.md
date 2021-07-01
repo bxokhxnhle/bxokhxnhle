@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 🦾 Currently majoring in Biomedical Engineering at UWaterloo 
 
-:milky_way: Junior Graphi Designer @ Bespoke Metrics for Spring 2021 (May-Aug)
+:milky_way: Junior Graphic Designer @ Bespoke Metrics for Spring 2021 (May-Aug)
