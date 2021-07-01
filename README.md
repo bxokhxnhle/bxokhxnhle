@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 🦾 Currently majoring in Biomedical Engineering at UWaterloo 
 
-:milky_way: Seeking Summer 2021 co-op opportunities where I can gain experience in designing and developing meaningful products!
+:milky_way: Junior Graphi Designer @ Bespoke Metrics for Spring 2021 (May-Aug)
