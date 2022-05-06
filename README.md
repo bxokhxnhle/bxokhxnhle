@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 :seedling: she/her
 
-:cactus: A UI/UX design enthusiast driven by the idea of integrating technology & healthcare to unveil novel solutions to global health challenges
+:cactus: A healthtech enthusiast driven by the idea of integrating technology & healthcare to unveil novel solutions to global health challenges
 
-🦾 Currently majoring in Biomedical Engineering at UWaterloo 
+🦾 2B Biomedical Engineering @ UWaterloo 
 
-:milky_way: Junior Graphic Designer @ Bespoke Metrics for Spring 2021 (May-Aug)
+:milky_way: Prev @ Purolator, Bespoke Metrics
