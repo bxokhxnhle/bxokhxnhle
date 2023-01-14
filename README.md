@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 :cactus: A healthtech enthusiast driven by the idea of integrating technology & healthcare to unveil novel solutions to global health challenges
 
-🦾 2B Biomedical Engineering @ UWaterloo 
+🦾 3A Biomedical Engineering @ UWaterloo 
 
-:milky_way: Prev @ Purolator, Bespoke Metrics
+:milky_way: Prev SWE @ Loblaw Digital, Purolator
